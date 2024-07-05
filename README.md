@@ -21,6 +21,8 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 This code/data is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).
 
 
+# GRAPHICAL ABSTRACT
+
 ![](index/figure-gfm/graphical_abstract.jpg)<!-- -->
 
 [Link to Preprint](https://www.biorxiv.org/content/10.1101/2023.09.09.557013v2)

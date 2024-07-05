@@ -15,6 +15,11 @@ sure packages listed in the session info text file are installed.
 Changes in R and/or its package versions may result in changes in the
 expected output.
 
+# LICENSING
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+This code/data is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).
+
 
 ![](index/figure-gfm/graphical_abstract.jpg)<!-- -->
 
